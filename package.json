@@ -1,0 +1,26 @@
+{
+  "name": "SPA Angular",
+  "version": "1.0.0",
+  "description": "Uso de Mapas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": ""
+  },
+  "keywords": [
+    "base",
+    "project",
+    "node",
+    "express",
+    "structure"
+  ],
+  "author": "Ferchas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "ejs": "",
+    "require-all": "^2.0.0"
+  },
+  "devDependencies": {}
+}
